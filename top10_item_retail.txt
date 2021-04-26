@@ -1,0 +1,11 @@
+"","Nama.Produk","Jumlah"
+"1","#1;Baju Renang Wanita Dewasa",1
+"2","#1;Celana Jogger Casual",1
+"3","#1;Serum Vitamin",1
+"4","#1;Shampo Biasa",1
+"5","#10;Celana Jogger Casual",1
+"6","#10;Dompet STNK Gantungan",1
+"7","#10;Flat Shoes Ballerina",1
+"8","#10;Hair Dryer",1
+"9","#10;Jeans Jumbo",1
+"10","#10;Kaos",1
